@@ -1,0 +1,4 @@
+- use chrome extension content script
+- parse the text and look for pokemon name
+- add <span> tags
+- show dialog

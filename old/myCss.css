@@ -1,0 +1,16 @@
+.no-close .ui-dialog-titlebar-close {
+  display: none;
+}
+
+.ui-dialog{
+	border-style:none;
+}
+.ui-dialog-content {
+	display:none;
+	border-style:none;
+}
+
+.dialogType
+{
+	background-color:white;
+}
